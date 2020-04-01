@@ -20,10 +20,10 @@ publication_types:
 - "3"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Master Theses
+summary: Master Thesis
 tags:
 - Source Themes
-title: Pre-PhD Publications
+title: Public-Private Sector Wage Gap in Ghana
 
 #url_code: '#'
 #url_dataset: '#'
