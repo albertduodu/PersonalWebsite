@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Trade, Labour, and Development Economics.
 education:
   courses:
   - course: PhD in Economics
